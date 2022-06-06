@@ -1,7 +1,7 @@
 export const Campaigns = [
   {
     title: '무너진 요새의 주인', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
-    label: '무너진 요새의 주인', // 저장소에서 표시할 캠페인 이름
+    label: '무너진 요새의 주인0', // 저장소에서 표시할 캠페인 이름
     platform: 'roll20', // 롤20이면 "roll20", FVTT면 "FVTT"
     npcs: [
     ],
