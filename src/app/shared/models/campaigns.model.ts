@@ -1,3 +1,15 @@
+// FVTT 적용시
+// +삭제
+// <div class="lil-sender-tag">(.*?)</div>
+// (?<=style=").+?(?=background-image:)
+
+// +수정
+// from : chat-portrait-text-size-name-generic
+// to : chat-portrait-text-size-name
+
+
+
+
 export const Campaigns = [
   {
     title: 'GhostsOfSaltmarsh_Part2', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
@@ -42,6 +54,311 @@ export const Campaigns = [
           }
         ],
       },
+      {
+        index: '9', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 09', // 저장소에서 표시할 파일 이름
+        images: [
+          {
+            id: `-N4MZTy2OefxPs_I2Og9`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '0.jpg',
+          },
+          {
+            id: `-N4McX7OjNpHxtImFyMn`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '1.jpg',
+          },
+          {
+            id: `-N4N31FdeA44xOQkx8Yq`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '2.jpg',
+          },
+          {
+            id: `-N4N5-g8mE2f6708-DO6`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '3.jpg',
+          },
+          {
+            id: `-N4N5Xqb9Mdmx6MiuMzS`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '4.jpg',
+          },
+          {
+            id: `-N4N5quT-GdjBJLoPKDa`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '5.jpg',
+          },
+          {
+            id: `-N4N7uP9nA3Dg5vnnMX5`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '6.jpg',
+          },
+          {
+            id: `-N4NAtTaaSXk51eWlSD2`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '7.jpg',
+          },
+          {
+            id: `-N4NBz5a0fBRsBZQ_IrL`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '7.jpg',
+          },
+          {
+            id: `-N4NCNJdYaKcrofXCLmh`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '8.jpg',
+          },
+          {
+            id: `-N4ND7k0zeGxRahybTqv`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '9.jpg',
+          },
+          {
+            id: `-N4NEgrGJIrBPuQ9mfj2`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '10.jpg',
+          },
+          {
+            id: `-N4NF4wtlPC3VlYBWSIh`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '11.jpg',
+          },
+          {
+            id: `-N4NGvbdx3QkzIOaUF_U`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '12.jpg',
+          },
+          {
+            id: `-N4NHDxsZOYVWNl3Df4U`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '13.jpg',
+          },
+          {
+            id: `-N4NI7uSdG9tfZ5JlqLV`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '14.jpg',
+          },
+          {
+            id: `-N4NIzxnpXZv04aj4FRd`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '15.jpg',
+          },
+          {
+            id: `-N4NJ7pRfE-mkhN5QPoG`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '16.jpg',
+          },
+          {
+            id: `-N4NKOZ-gjwRaE8aAGp9`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '17.jpg',
+          },
+          {
+            id: `-N4NL_ZpCuyn_uT9IBJ4`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '18.jpg',
+          },
+          {
+            id: `-N4NM99HgWHENDlp-NPS`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '19.jpg',
+          },
+          {
+            id: `-N4NNBSxrwELo97NFh0N`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '20.jpg',
+          },
+          {
+            id: `-N4NNxvlX87gGVOyt0-p`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '21.jpg',
+          },
+          {
+            id: `-N4NO43jhP2oc4xbbI4u`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '22.jpg',
+          },
+          {
+            id: `-N4NOEZSKQuyF41JzL31`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '23.jpg',
+          },
+          {
+            id: `-N4NOXtcJuqLtCQz8tFb`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '24.jpg',
+          },
+          {
+            id: `-N4NP_YNbulGOyOqbOww`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '25.jpg',
+          },
+          {
+            id: `-N4NPmtcXzAdIpWgK9Nw`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '26.jpg',
+          },
+          {
+            id: `-N4NPuplbID_iFHUrSzh`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '27.jpg',
+          },
+          {
+            id: `-N4NQZTD8YaI4bVXfqGU`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '28.jpg',
+          },
+          {
+            id: `-N4NQiB125QwsVj1l0aT`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '29.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `-N4MZTy2OefxPs_I2Og9`,
+            file: '',
+          },
+          {
+            id: `-N4Mdj1vk5qpBppNxK9H`,
+            file: '자판기.jpg',
+          },
+          {
+            id: `-N4N31FdeA44xOQkx8Yq`,
+            file: '',
+          },
+          {
+            id: `-N4NBz5a0fBRsBZQ_IrL`,
+            file: '0.jpg',
+          },
+          {
+            id: `-N4ND7k0zeGxRahybTqv`,
+            file: '1.jpg',
+          },
+          {
+            id: `-N4NEgrGJIrBPuQ9mfj2`,
+            file: '2.jpg',
+          },
+          {
+            id: `-N4NF4wtlPC3VlYBWSIh`,
+            file: '3.jpg',
+          },
+          {
+            id: `-N4NGvbdx3QkzIOaUF_U`,
+            file: '4.jpg',
+          },
+          {
+            id: `-N4NHDxsZOYVWNl3Df4U`,
+            file: '5.jpg',
+          },
+          {
+            id: `-N4NI7uSdG9tfZ5JlqLV`,
+            file: '6.jpg',
+          },
+          {
+            id: `-N4NJ7pRfE-mkhN5QPoG`,
+            file: '7.jpg',
+          },
+          {
+            id: `-N4NKOZ-gjwRaE8aAGp9`,
+            file: '0.jpg',
+          },
+          {
+            id: `-N4NL_ZpCuyn_uT9IBJ4`,
+            file: '1.jpg',
+          },
+          {
+            id: `-N4NM99HgWHENDlp-NPS`,
+            file: '2.jpg',
+          },
+          {
+            id: `-N4NMJ443L4vF2attMJd`,
+            file: '4.jpg',
+          },
+          {
+            id: `-N4NMZVRkJ9NjVRrESLX`,
+            file: '5.jpg',
+          },
+          {
+            id: `-N4NN32us3eCiAnteH6F`,
+            file: '6.jpg',
+          },
+          {
+            id: `-N4NNBSxrwELo97NFh0N`,
+            file: '7.jpg',
+          },
+          {
+            id: `-N4NNxvlX87gGVOyt0-p`,
+            file: '0.jpg',
+          },
+          {
+            id: `-N4NO43jhP2oc4xbbI4u`,
+            file: '1.jpg',
+          },
+          {
+            id: `-N4NOEZSKQuyF41JzL31`,
+            file: '2.jpg',
+          },
+          {
+            id: `-N4NOXtcJuqLtCQz8tFb`,
+            file: '4.jpg',
+          },
+          {
+            id: `-N4NOn6vNMxvsaCj5goD`,
+            file: '5.jpg',
+          },
+          {
+            id: `-N4NP8A45DRFlf9-XOx7`,
+            file: '6.jpg',
+          },
+          {
+            id: `-N4NP_YNbulGOyOqbOww`,
+            file: '7.jpg',
+          },
+          {
+            id: `-N4NPmtcXzAdIpWgK9Nw`,
+            file: '0.jpg',
+          },
+          {
+            id: `-N4NPuplbID_iFHUrSzh`,
+            file: '1.jpg',
+          },
+          {
+            id: `-N4NQU58ELkr45cMw4q9`,
+            file: '2.jpg',
+          },
+          {
+            id: `-N4NQZTD8YaI4bVXfqGU`,
+            file: '4.jpg',
+          },
+          {
+            id: `-N4NQiB125QwsVj1l0aT`,
+            file: '5.jpg',
+          },
+          {
+            id: `-N4NQwogjp-ZVsqyzKe_`,
+            file: '6.jpg',
+          },
+        ],
+      },
+    ]
+  },
+  {
+    title: 'CKL', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
+    label: 'CKL', // 저장소에서 표시할 캠페인 이름
+    platform: 'FVTT', // 롤20이면 "roll20", FVTT면 "FVTT"
+    npcs: [
+      {
+        name: "Game Master",
+        avatar: "CLK/Game Master.jpg"
+      },
+      {
+        name: "루아",
+        avatar: "CLK/루아.jpg"
+      },
+      {
+        name: "알리스티르",
+        avatar: "CLK/알리스티르.jpg"
+      },
+      {
+        name: "언어학자",
+        avatar: "CLK/언어학자.jpg"
+      },
+      {
+        name: "윌리엄",
+        avatar: "CLK/윌리엄.jpg"
+      },
+      {
+        name: "클레시아",
+        avatar: "CLK/클레시아.jpg"
+      },
+      {
+        name: "해룡",
+        avatar: "CLK/해룡.jpg"
+      },
+      {
+        name: "Vailed Master",
+        avatar: "CLK/Vailed Master.jpg"
+      },
+    ],
+    logs: [
+      {
+        index: '1', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '2022-06-12', // 저장소에서 표시할 파일 이름
+        images: [
+        ],
+        interfaces: [
+        ],
+      },
     ]
   },
   {
@@ -49,6 +366,10 @@ export const Campaigns = [
     label: '무너진 요새의 주인', // 저장소에서 표시할 캠페인 이름
     platform: 'roll20', // 롤20이면 "roll20", FVTT면 "FVTT"
     npcs: [
+      {
+        name: "진성 구. (GM)",
+        avatar: "무너진 요새의 주인/진성 구. (GM).png"
+      }
     ],
     logs: [
       {

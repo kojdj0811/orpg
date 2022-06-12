@@ -82,7 +82,7 @@ export class ViewerService {
             }
             else {
               const regexp = new RegExp(`<span class="by">${npc.name}:</span>*`, 'gi');
-              return log.replace(regexp, `<div class="avatar" aria-hidden="true"><img src="${npc.avatar}"/></div><span class="by">${npc.name}:</span>`);
+              return log.replace(regexp, `<div class="avatar" aria-hidden="true"><img src="${this.baseHref}assets/images/${npc.avatar}"/></div><span class="by">${npc.name}:</span>`);
             }
           }, log);
           if (environment.production === true || !environment.debug) {
