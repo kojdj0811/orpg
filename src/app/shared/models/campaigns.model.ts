@@ -382,6 +382,330 @@ export const Campaigns = [
           },
         ],
         interfaces: [
+          {
+            id: `-N4MZTy2OefxPs_I2Og9`,
+            file: '',
+          },
+          {
+            id: `-N3Tw31MRbVl-Bzo1ZLd`,
+            file: '칼 에덤스.jpg',
+          },
+          {
+            id: `-N3TwJQsjQnjHJJp2nNS`,
+            file: '파이론.jpg',
+          },
+          {
+            id: `-N3Twj2-YiJcS356szGb`,
+            file: '자부.jpg',
+          },
+          {
+            id: `-N3TwujuxvTvn5nM8Gl_`,
+            file: '벨루니아나.jpg',
+          },
+          {
+            id: `-N3TxIft8bGvqfVljBq3`,
+            file: '',
+          },
+          {
+            id: `-N3UEf7mNebqYPNyRtE5`,
+            file: '_1.jpg',
+          },
+          {
+            id: `-N3UFQHzvfJB5qmd8Gkc`,
+            file: '미리암.jpg',
+          },
+          {
+            id: `-N3UM42CcjIsTvq3hblg`,
+            file: '_2.jpg',
+          },
+          {
+            id: `-N3UbRitowr6uUihiLqM`,
+            file: '_4.jpg',
+          },
+        ],
+      },
+      {
+        index: '2', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '2화', // 저장소에서 표시할 파일 이름
+        images: [
+          {
+            id: `-N3Us8qqhYFdoL4jLkZ`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '0.jpg',
+          },
+          {
+            id: `-N4bIVzFrOAQAbc431e1`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '1.jpg',
+          },
+          {
+            id: `-N4bKqdoLt7goPpsHJI5`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '2.jpg',
+          },
+          {
+            id: `-N4bLuzQuSngrQ9crSf2`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '3.jpg',
+          },
+          {
+            id: `-N4bN7Yv7ynnKCZTOwjh`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '4.jpg',
+          },
+          {
+            id: `-N4bNzPj7jtVlaXdUKBZ`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '5.jpg',
+          },
+          {
+            id: `-N4bOW_1kQ2cSb22bV5i`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '6.jpg',
+          },
+          {
+            id: `-N4bQ94uwc78WZvfwDzX`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '7.jpg',
+          },
+          {
+            id: `-N4bKefZKclErytPG4bK`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '8.jpg',
+          },
+          {
+            id: `-N4bROQMi_dnW6Ax9De5`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '9.jpg',
+          },
+          {
+            id: `-N4bS53Hs6rKAOvcUrm5`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '10.jpg',
+          },
+          {
+            id: `-N4bSW1waIiej5E8Cx3Y`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '11.jpg',
+          },
+          {
+            id: `-N4b_U1wFlm2u4zARqD7`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '12.jpg',
+          },
+          {
+            id: `-N4baViLLTfb80TKW9Zw`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '13.jpg',
+          },
+          {
+            id: `-N4bb91Ug4oZv1QoArXd`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '14.jpg',
+          },
+          {
+            id: `-N4bbNjPIMX-visu6zIR`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '15.jpg',
+          },
+          {
+            id: `-N4bdkxo619C1QrpWKxp`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '16.jpg',
+          },
+          {
+            id: `-N4bfXGEgrU1PsJKIrWV`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '17.jpg',
+          },
+          {
+            id: `-N4bhCGXOAGZCcv5lAh6`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '18.jpg',
+          },
+          {
+            id: `-_BE6wzPCgdHuff`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '19.jpg',
+          },
+          {
+            id: `-N4biGxjaNRJKwpXSx1L`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '20.jpg',
+          },
+          {
+            id: `-N4bik5yozO6Lti5K3Pp`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '21.jpg',
+          },
+          {
+            id: `-N4bjtkhqsHjsijz4U3m`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '22.jpg',
+          },
+          {
+            id: `-N4bkxDjuyKIwUrSk5ba`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '23.jpg',
+          },
+          {
+            id: `-N4bmYkgLnMNDHZbvQRB`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '24.jpg',
+          },
+          {
+            id: `-N4bmt2haEe2-szEyobL`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '25.jpg',
+          },
+          {
+            id: `-N4bo__voGi01kPF6a1d`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '26.jpg',
+          },
+          {
+            id: `-N4bpbagGVBXQqPvCNDK`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '27.jpg',
+          },
+          {
+            id: `-N4bsWH2MeTEq2cdWNWl`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '28.jpg',
+          },
+          {
+            id: `-N4btSq6tKL_3vyj8fRl`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '29.jpg',
+          },
+          {
+            id: `-N4buf7LQEcmPmurOwAo`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '30.jpg',
+          },
+          {
+            id: `-N4c-QSD7P2Zf9fuuKfE`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '31.jpg',
+          },
+          {
+            id: `-N4c-rhEFqbmKqFPdqW6`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '32.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `-N3Us8qqhYFdoL4jLkZ`,
+            file: '',
+          },
+          {
+            id: `-N4bIU2I4soRHQSHocUm`,
+            file: '',
+          },
+          {
+            id: `-N4bIVzFrOAQAbc431e1`,
+            file: '',
+          },
+          {
+            id: `-N4bLSE8yZ55KCDo7QIY`,
+            file: '0_1.jpg',
+          },
+          {
+            id: `-N4bN7Yv7ynnKCZTOwjh`,
+            file: '0_2.jpg',
+          },
+          {
+            id: `-N4bNYvbYXdD4YWDTglP`,
+            file: '0_3.jpg',
+          },
+          {
+            id: `-N4bNzPj7jtVlaXdUKBZ`,
+            file: '0_4.jpg',
+          },
+          {
+            id: `-N4bOKsrdkhPPxfWboqg`,
+            file: '0_5.jpg',
+          },
+          {
+            id: `-N4bOW_1kQ2cSb22bV5i`,
+            file: '0_6.jpg',
+          },
+          {
+            id: `-N4bQdMlZzlwmLuYdXbj`,
+            file: '0_1.jpg',
+          },
+          {
+            id: `-N4bROQMi_dnW6Ax9De5`,
+            file: '0_2.jpg',
+          },
+          {
+            id: `-N4bS53Hs6rKAOvcUrm5`,
+            file: '0_3.jpg',
+          },
+          {
+            id: `-N4bSF3aPFmoyIpgvp8g`,
+            file: '0_4.jpg',
+          },
+          {
+            id: `-N4bSW1waIiej5E8Cx3Y`,
+            file: '0_6.jpg',
+          },
+          {
+            id: `-N4bX3feBYfcR0fhDiHJ`,
+            file: '_10.jpg',
+          },
+          {
+            id: `-N4ba4aRQv3rNH5eh6IX`,
+            file: '1_1.jpg',
+          },
+          {
+            id: `-N4basnzxeBK3ncE7M4i`,
+            file: '1_2.jpg',
+          },
+          {
+            id: `-N4bb91Ug4oZv1QoArXd`,
+            file: '1_3.jpg',
+          },
+          {
+            id: `-N4bbNjPIMX-visu6zIR`,
+            file: '1_4.jpg',
+          },
+          {
+            id: `-N4berK5BonwpLJ8OAKG`,
+            file: '2_0.jpg',
+          },
+          {
+            id: `-N4bfXGEgrU1PsJKIrWV`,
+            file: '2_1.jpg',
+          },
+          {
+            id: `-N4bgc7w1EC1cYbVa64r`,
+            file: '2_2.jpg',
+          },
+          {
+            id: `-N4bgpAzaqEMQ8Dwpo6p`,
+            file: '2_3.jpg',
+          },
+          {
+            id: `-N4bhCGXOAGZCcv5lAh6`,
+            file: '2_4.jpg',
+          },
+          {
+            id: `-_BE6wzPCgdHuff`,
+            file: '2_5.jpg',
+          },
+          {
+            id: `-N4biGxjaNRJKwpXSx1L`,
+            file: '2_6.jpg',
+          },
+          {
+            id: `-N4bik5yozO6Lti5K3Pp`,
+            file: '2_7.jpg',
+          },
+          {
+            id: `-N4bjtkhqsHjsijz4U3m`,
+            file: '2_0.jpg',
+          },
+          {
+            id: `-N4bkdWjhR_iu9IdiNYx`,
+            file: '2_1.jpg',
+          },
+          {
+            id: `-N4bkxDjuyKIwUrSk5ba`,
+            file: '2_2.jpg',
+          },
+          {
+            id: `-N4blSrrS8m4SsFsriVW`,
+            file: '2_3.jpg',
+          },
+          {
+            id: `-N4bltRy4SJCrh1oARyb`,
+            file: '2_4.jpg',
+          },
+          {
+            id: `-N4bmYkgLnMNDHZbvQRB`,
+            file: '2_5.jpg',
+          },
+          {
+            id: `-N4bmt2haEe2-szEyobL`,
+            file: '2_7.jpg',
+          },
+          {
+            id: `-N4bzzpbWDXu03tCyNIa`,
+            file: '_7.jpg',
+          },
+          {
+            id: `-N4c-zoZo1Xna1gaff6l`,
+            file: '_12.jpg',
+          },
         ],
       },
     ]
