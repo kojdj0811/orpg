@@ -310,6 +310,74 @@ export const Campaigns = [
           },
         ],
       },
+      {
+        index: '10', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 10', // 저장소에서 표시할 파일 이름
+        images: [
+          {
+            id: `-N4vbhgMfI-DZ8WnXXT3`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '0.jpg',
+          },
+          {
+            id: `-N4vnwtKN3oRdutv25Nz`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '1.jpg',
+          },
+          {
+            id: `-N4vsOs7BS6ffwmWAJ77`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '2.jpg',
+          },
+          {
+            id: `-N4vuuUioWGrCKWSSXYL`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '3.jpg',
+          },
+          {
+            id: `-N4w-W6OuY1yfHn493SH`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '4.jpg',
+          },
+          {
+            id: `-N4wILD2rR7nhkMxL_YO`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '5.jpg',
+          },
+          {
+            id: `-N4wJbCgVC9c0tQsZy58`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '6.jpg',
+          },
+        ],
+        interfaces: [
+          {
+            id: `-N4vbhgMfI-DZ8WnXXT3`,
+            file: '',
+          },
+          {
+            id: `-N4vx-pTEO1BBHSdHZ8z`,
+            file: '트윈 비사지.jpg',
+          },
+          {
+            id: `-N4w5J8Gmv5KAHqACY_H`,
+            file: '펜리르.jpg',
+          },
+          {
+            id: `-N4w6QlOJ_MUckLjMOKp`,
+            file: '헬름즈포트 포탈.jpg',
+          },
+          {
+            id: `-N4w6xfzl4JqR_vPtrTO`,
+            file: '자이로스피어.jpg',
+          },
+          {
+            id: `-N4w9fEi5f1BjPPE80di`,
+            file: '워프.jpg',
+          },
+          {
+            id: `-N4wAvn-5Nq7JwltveQr`,
+            file: '테즈카 대사막.jpg',
+          },
+          {
+            id: `-N4wQLsWGvPjI-sBJv7l`,
+            file: '호루스의 눈 표식.jpg',
+          },
+        ],
+      },
     ]
   },
   {
