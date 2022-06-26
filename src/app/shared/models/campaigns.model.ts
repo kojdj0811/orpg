@@ -410,6 +410,10 @@ export const Campaigns = [
         avatar: "CLK/클레시아.jpg"
       },
       {
+        name: "호스본",
+        avatar: "CLK/호스본.webp"
+      },
+      {
         name: "해룡",
         avatar: "CLK/해룡.jpg"
       },
@@ -422,6 +426,14 @@ export const Campaigns = [
       {
         index: '1', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
         name: '2022-06-12', // 저장소에서 표시할 파일 이름
+        images: [
+        ],
+        interfaces: [
+        ],
+      },
+      {
+        index: '2', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '2022-06-26', // 저장소에서 표시할 파일 이름
         images: [
         ],
         interfaces: [
