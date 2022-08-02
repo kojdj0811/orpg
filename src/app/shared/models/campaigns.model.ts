@@ -19,8 +19,8 @@ export const Campaigns = [
     ],
     logs: [
       {
-        index: '8', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
-        name: '- Chapter 08', // 저장소에서 표시할 파일 이름
+        index: '9', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 09', // 저장소에서 표시할 파일 이름
         images: [
           {
             id: `-N3ssnljJN0Fe3oEosr7`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
@@ -55,8 +55,8 @@ export const Campaigns = [
         ],
       },
       {
-        index: '9', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
-        name: '- Chapter 09', // 저장소에서 표시할 파일 이름
+        index: '10', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 10', // 저장소에서 표시할 파일 이름
         images: [
           {
             id: `-N4MZTy2OefxPs_I2Og9`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
@@ -311,8 +311,8 @@ export const Campaigns = [
         ],
       },
       {
-        index: '10', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
-        name: '- Chapter 10', // 저장소에서 표시할 파일 이름
+        index: '11', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 11', // 저장소에서 표시할 파일 이름
         images: [
           {
             id: `-N4vbhgMfI-DZ8WnXXT3`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
@@ -379,8 +379,8 @@ export const Campaigns = [
         ],
       },
       {
-        index: '11', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
-        name: '- Chapter 11', // 저장소에서 표시할 파일 이름
+        index: '12', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 12', // 저장소에서 표시할 파일 이름
         images: [
           {
             id: `-N5Uf6CU140Byfckty8H`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
@@ -395,14 +395,6 @@ export const Campaigns = [
         ],
       },
       {
-        index: '12', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
-        name: '- Chapter 12', // 저장소에서 표시할 파일 이름
-        images: [
-        ],
-        interfaces: [
-        ],
-      },
-      {
         index: '13', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
         name: '- Chapter 13', // 저장소에서 표시할 파일 이름
         images: [
@@ -413,6 +405,22 @@ export const Campaigns = [
       {
         index: '14', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
         name: '- Chapter 14', // 저장소에서 표시할 파일 이름
+        images: [
+        ],
+        interfaces: [
+        ],
+      },
+      {
+        index: '15', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 15', // 저장소에서 표시할 파일 이름
+        images: [
+        ],
+        interfaces: [
+        ],
+      },
+      {
+        index: '16', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 16', // 저장소에서 표시할 파일 이름
         images: [
         ],
         interfaces: [
