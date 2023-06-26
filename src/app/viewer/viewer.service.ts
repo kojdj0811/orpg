@@ -26,7 +26,7 @@ export class ViewerService {
   curImages: any[] = [];
   curInterfaces: any[] = [];
   assetSrc = environment.production
-    ? `https://raw.githubusercontent.com/${environment.user}/orpg/main/src/campaigns`
+    ? `https://raw.githubusercontent.com/${environment.user}/orpg/master/src/campaigns`
     : `${this.baseHref}campaigns`;
 
   constructor(
@@ -40,7 +40,7 @@ export class ViewerService {
     this.curTitle = campaign.title;
     this.assetSrc = environment.production
       ? campaign.assetSrc ??
-        `https://raw.githubusercontent.com/${environment.user}/orpg/main/src/campaigns`
+        `https://raw.githubusercontent.com/${environment.user}/orpg/master/src/campaigns`
       : `${this.baseHref}campaigns`;
     this.curIndex = log.index;
     this.curImages = log.images ? log.images : [];
