@@ -2,7 +2,6 @@
   <clr-header>
     <div class="branding">
       <a routerLink="" class="nav-link">
-        <clr-icon shape="details"></clr-icon>
         <span class="title">로그저장소</span>
       </a>
     </div>
@@ -13,9 +12,9 @@
     </div> -->
   </clr-header>
   <div class="content-container">
-    <nav class="sidenav" [clr-nav-level]="1">
+    <clr-vertical-nav [clr-nav-level]="1" [clrVerticalNavCollapsible]="true">
       <app-sidebar></app-sidebar>
-    </nav>
+    </clr-vertical-nav>
     <div class="content-area">
       <router-outlet></router-outlet>
     </div>

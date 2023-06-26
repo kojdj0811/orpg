@@ -1018,6 +1018,7 @@ export const Campaigns = [
     title: 'TEST', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
     label: '로그 저장 예시들', // 저장소에서 표시할 캠페인 이름
     platform: 'roll20', // 롤20이면 "roll20", FVTT면 "FVTT"
+    // assetSrc: `https://raw.githubusercontent.com/Bongchidong1/bookshelf/master/src/campaigns`,
     npcs: [
     ],
     logs: [
@@ -1697,6 +1698,7 @@ export interface Campaign {
   title: string;
   label: string;
   platform: string;
+  assetSrc?: string;
   npcs: NPC[];
   logs: Log[];
 }
