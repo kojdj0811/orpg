@@ -11,7 +11,7 @@ export class ViewerImageComponent implements OnInit {
   axes: Axes.default = new Axes.default(
     {
       zoom: {
-        startPos: 1,
+        bounce: 1,
         range: [0.1, 3],
       },
     },
