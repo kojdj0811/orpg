@@ -12,6 +12,60 @@
 
 export const Campaigns = [
   {
+    title: '꺼져가는 빛', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
+    label: '꺼져가는 빛', // 저장소에서 표시할 캠페인 이름
+    platform: 'FVTT', // 롤20이면 "roll20", FVTT면 "FVTT"
+    npcs: [
+      {
+        name: "Gamemaster",
+        avatar: "꺼져가는 빛/Gamemaster.jpg"
+      },
+      {
+        name: "나루",
+        avatar: "꺼져가는 빛/나루.png"
+      },
+      {
+        name: "반",
+        avatar: "꺼져가는 빛/반.png"
+      },
+      {
+        name: "아비게일",
+        avatar: "꺼져가는 빛/아비게일.png"
+      },
+      {
+        name: "꿈",
+        avatar: "꺼져가는 빛/아비게일.png"
+      },
+      {
+        name: "애쓸",
+        avatar: "꺼져가는 빛/애쓸.png"
+      },
+      {
+        name: "카미아엘",
+        avatar: "꺼져가는 빛/카미아엘.png"
+      },
+      {
+        name: "노타드",
+        avatar: "꺼져가는 빛/카미아엘.png"
+      },
+      {
+        name: "크누트",
+        avatar: "꺼져가는 빛/크누트.png"
+      },
+    ],
+    logs: [
+      {
+        index: '1', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '- Chapter 01', // 저장소에서 표시할 파일 이름
+        images: [
+        ],
+        interfaces: [
+        ],
+      },
+    ]
+  },
+
+  {
     title: 'GhostsOfSaltmarsh_Part2', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
     label: '[Part 2] Ghosts of Saltmarsh', // 저장소에서 표시할 캠페인 이름
     platform: 'roll20', // 롤20이면 "roll20", FVTT면 "FVTT"
